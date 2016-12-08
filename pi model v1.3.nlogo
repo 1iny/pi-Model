@@ -316,7 +316,7 @@ to decompose
    die ]
   
  set size rad * size-factor
-  
+ 
 end
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
